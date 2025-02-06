@@ -1,12 +1,43 @@
-<h1 align="center">Hi 👋, I'm Harshal Gupta</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+## Hi there! 👋
 
-- 📫 How to reach me **harshal.2023ug3013@iiitranchi.ac.in**
+I'm Harshal Gupta, a passionate developer who loves building innovative solutions. I enjoy tackling challenges and continuously learning new technologies to enhance my skills.
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.leetcode.com/gupta_harshal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="gupta_harshal" height="30" width="40" /></a>
-</p>
+## About Me
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+I am a software developer with a keen interest in web technologies and application development. Currently, I am based in India and actively contributing to various projects. I strive to create impactful solutions that make a difference.
+
+## Skills & Technologies
+
+html,css,java,react,nodejs,django,flutter,git,docker,aws
+
+## Top Projects
+
+- [SMHACKERS](https://github.com/gupta-harshal/SMHACKERS) - A collaborative project focused on providing solutions for student queries. ⭐ 0 | Language: CSS | Forks: 0 | Issues: 1
+- [Trip](https://github.com/gupta-harshal/Trip) - A travel planning application that simplifies trip organization. ⭐ 0 | Language: CSS | Forks: 0 | Issues: 0
+- [Templates](https://github.com/gupta-harshal/Templates) - A collection of useful templates for various projects. ⭐ 0 | Language: Java | Forks: 0 | Issues: 0
+- [gupta-harshal](https://github.com/gupta-harshal/gupta-harshal) - My personal repository showcasing various experiments and projects. ⭐ 0 | Language: N/A | Forks: 0 | Issues: 0
+- [rkr-gdsc-solution](https://github.com/gupta-harshal/rkr-gdsc-solution) - A forked repository contributing to the GDSC solutions. ⭐ 0 | Language: N/A | Forks: 0 | Issues: 0
+
+## GitHub Stats
+
+🌟 **Public Repositories:** 5  
+👥 **Followers:** 1  
+👤 **Following:** 3  
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=gupta-harshal&show_icons=true&theme=radical)
+
+## Recent Activity
+
+- **Pushed to [SMHackers](https://github.com/InternLay-HG/SMHackers)** - Added new features and updates. (2025-01-22)
+- **Pushed to [SMHackers](https://github.com/InternLay-HG/SMHackers)** - Merged changes from develop branch. (2025-01-22)
+- **Pushed to [SMHackers](https://github.com/InternLay-HG/SMHackers)** - Fixed routing issues. (2025-01-22)
+- **Pushed to [SMHackers](https://github.com/InternLay-HG/SMHackers)** - Updated admin route. (2025-01-22)
+- **Pushed to [SMHackers](https://github.com/InternLay-HG/SMHackers)** - Added chat UI. (2025-01-10)
+
+## Latest Blog Posts
+
+No recent blog posts available. Stay tuned for updates!
+
+## Connect with Me
+
+{}
