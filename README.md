@@ -112,8 +112,8 @@
 
 - 📧 &nbsp;**Email:** [harshal.2023ug3013@iiitranchi.ac.in](mailto:harshal.2023ug3013@iiitranchi.ac.in)
 - 💼 &nbsp;**LinkedIn:** [linkedin.com/in/harshalgupta10](https://www.linkedin.com/in/harshalgupta10)
-- 👨‍💻 &nbsp;**LeetCode:** [leetcode.com/u/gupta-harshal](https://leetcode.com/gupta-harshal)
-- ⚡ &nbsp;**Codeforces:** [https://codeforces.com/profile/gupta-harshal](https://codeforces.com/profile/gupta-harshal)
+- 👨‍💻 &nbsp;**LeetCode:** [leetcode.com/u/gupta-harshal](https://leetcode.com/u/gupta_harshal)
+- ⚡ &nbsp;**Codeforces:** [https://codeforces.com/profile/gupta-harshal](https://codeforces.com/profile/gupta_harshal)
 - 🖥️ &nbsp;**GitHub:** [github.com/gupta-harshal](https://github.com/gupta-harshal)
 
 ---
