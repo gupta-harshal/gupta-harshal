@@ -8,7 +8,7 @@
 
 ## 🌱 Currently Learning & Building
 
-🚀 I'm a passionate full-stack developer with a foundation in **web, mobile, and machine learning**. I enjoy creating real-world solutions that combine **performance with intelligence**—from Android apps using deep learning to scalable, full-stack web apps. My journey involves constant learning in TypeScript, backend architecture, and integrating machine learning at scale.
+🚀 I'm a passionate full-stack developer with strong foundations in web, mobile, and machine learning. I enjoy crafting projects that blend performance and intelligence—from Android apps leveraging deep learning to scalable full-stack web applications. I'm currently diving deeper into TypeScript, backend architecture, and advanced ML integrations.
 
 ---
 
@@ -37,16 +37,6 @@
 
 ---
 
-## 🐦 Latest Tweet
-
-<div align="center">
-  <!-- Replace 'YOUR_TWITTER_USERNAME' with your real X (Twitter) username -->
-  <a href="https://twitter.com/YOUR_TWITTER_USERNAME">
-    <img src="https://gtce.itsvg.in/api?username=YOUR_TWITTER_USERNAME" alt="Latest Tweet"/>
-  </a>
-</div>
-
----
 
 ## 💻 Tech Stack
 
@@ -108,9 +98,12 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/harshalgupta10)
 [![GitHub](https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/gupta-harshal)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116.svg?style=for-the-badge&logo=leetCode&logoColor=black)](https://leetcode.com/gupta-harshal)
+[![Codeforces](https://img.shields.io/badge/Codeforces-1f8acb.svg?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/gupta-harshal)
 [![Email](https://img.shields.io/badge/Email-D14836.svg?style=for-the-badge&logo=gmail&logoColor=white)](mailto:harshal.2023ug3013@iiitranchi.ac.in)
-[![Website](https://img.shields.io/badge/Portfolio-24292e?style=for-the-badge&logo=google-chrome&logoColor=white)](https://your-website.com)
-<!-- Add other buttons such as Twitter/X, DEV, etc., as needed -->
+<!-- You can add your website/portfolio button as below and update the link -->
+<!-- [![Portfolio](https://img.shields.io/badge/Portfolio-24292e?style=for-the-badge&logo=google-chrome&logoColor=white)](https://your-website.com) -->
+
 </div>
 
 ---
@@ -119,8 +112,9 @@
 
 - 📧 &nbsp;**Email:** [harshal.2023ug3013@iiitranchi.ac.in](mailto:harshal.2023ug3013@iiitranchi.ac.in)
 - 💼 &nbsp;**LinkedIn:** [linkedin.com/in/harshalgupta10](https://www.linkedin.com/in/harshalgupta10)
-- 🖥️ &nbsp;**Portfolio:** [your-website.com](https://your-website.com)
-<!-- Replace with your real site -->
+- 👨‍💻 &nbsp;**LeetCode:** [leetcode.com/gupta-harshal](https://leetcode.com/gupta-harshal)
+- ⚡ &nbsp;**Codeforces:** [codeforces.com/profile/gupta-harshal](https://codeforces.com/profile/gupta-harshal)
+- 🖥️ &nbsp;**GitHub:** [github.com/gupta-harshal](https://github.com/gupta-harshal)
 
 ---
 
