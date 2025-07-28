@@ -4,15 +4,9 @@
 
 ## 🌱 I'm currently learning
 
-Learning AI ML development and Data Science subjects.
+🚀 Passionate full-stack developer with a strong foundation in web, mobile, and machine learning technologies. I love building real-world projects that combine performance with intelligence—from Android apps powered by deep learning to full-stack web applications using modern frameworks. Always exploring new tools, experimenting with ideas, and pushing my limits to grow as a developer. Currently diving deeper into TypeScript, backend architecture, and scalable ML integrations.
 
-## 👀 Visitor Count
 
-<!-- ⚠️ Important: Replace 'gupta-harshal' with your actual GitHub username in the URL below -->
-<p align="center">
-  <img src="https://profile-counter.glitch.me/gupta-harshal/count.svg" />
-  <br>Thank you for visiting my profile! Come back soon!
-</p>
 
 ## 🏆 GitHub Trophies
 
