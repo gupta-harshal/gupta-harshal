@@ -1,52 +1,100 @@
-<h1 align="center">Hey 👋What's Up?</h1>
+# Hi 👋, I'm Harshal Gupta
 
-###
+****
 
+## 🌱 I'm currently learning
+
+Learning AI ML development and Data Science subjects.
+
+## 👀 Visitor Count
+
+<!-- ⚠️ Important: Replace 'gupta-harshal' with your actual GitHub username in the URL below -->
+<p align="center">
+  <img src="https://profile-counter.glitch.me/gupta-harshal/count.svg" />
+  <br>Thank you for visiting my profile! Come back soon!
+</p>
+
+## 🏆 GitHub Trophies
+
+<!-- ⚠️ Important: Replace 'gupta-harshal' with your actual GitHub username in the URL below -->
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=gupta-harshal&theme=flat&column=7&margin-w=15&margin-h=15" />
+</p>
+
+## 📊 GitHub Stats
+
+<!-- ⚠️ Important: Replace 'gupta-harshal' with your actual GitHub username in the URL below -->
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=ts" height="60" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=nextjs" height="60" alt="nextjs logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=tailwind" height="60" alt="tailwindcss logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/storybook/storybook-original.svg" height="60" alt="storybook logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=graphql" height="60" alt="graphql logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=go" height="60" alt="go logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=rust" height="60" alt="rust logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=nestjs" height="60" alt="nestjs logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=py" height="60" alt="python logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=aws" height="60" alt="amazonwebservices logo"  />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gupta-harshal&show_icons=true&theme=default&include_all_commits=true&count_private=true"/>
 </div>
 
-###
+## 🔝 Most Used Languages
 
+<!-- ⚠️ Important: Replace 'gupta-harshal' with your actual GitHub username in the URL below -->
 <div align="center">
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
-  <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo"  />
-  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="discord logo"  />
-  <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitch logo"  />
-  <img src="https://img.shields.io/static/v1?message=dev.to&logo=dev.to&label=&color=0A0A0A&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="devto logo"  />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gupta-harshal&layout=compact&langs_count=10&theme=default"/>
 </div>
 
-###
+## 🔥 Contribution Streak
 
+<!-- ⚠️ Important: Replace 'gupta-harshal' with your actual GitHub username in the URL below -->
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=maurodesouza&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
-  <img src="https://github-profile-trophy.vercel.app?username=maurodesouza&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=gupta-harshal&theme=default&hide_border=false" />
 </div>
 
-###
+## 🐦 Latest Tweet
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph.svg">
-</picture>
+<!-- ⚠️ Important: Replace 'YOUR_TWITTER_USERNAME' with your actual Twitter username in the URL below -->
+<div align="center">
+  <a href="https://github.com/VishwaGauravIn/github-twitter-card-embed"><img src="https://gtce.itsvg.in/api?username=YOUR_TWITTER_USERNAME" /></a>
+</div>
 
-###
+## 💻 Tech Stack
+
+### 🎨 Frontend
+
+<img src="https://img.shields.io/badge/React-ff69b4?style=for-the-badge&logo=react&logoColor=white" /> <img src="https://img.shields.io/badge/Vue.js-ff69b4?style=for-the-badge&logo=vue.js&logoColor=white" /> <img src="https://img.shields.io/badge/Next.js-ff69b4?style=for-the-badge&logo=next.js&logoColor=white" /> <img src="https://img.shields.io/badge/Tailwind-ff69b4?style=for-the-badge&logo=tailwind&logoColor=white" /> <img src="https://img.shields.io/badge/Bootstrap-ff69b4?style=for-the-badge&logo=bootstrap&logoColor=white" /> <img src="https://img.shields.io/badge/Material UI-ff69b4?style=for-the-badge&logo=material ui&logoColor=white" /> <img src="https://img.shields.io/badge/HTML5-ff69b4?style=for-the-badge&logo=html5&logoColor=white" /> <img src="https://img.shields.io/badge/CSS3-ff69b4?style=for-the-badge&logo=css3&logoColor=white" /> <img src="https://img.shields.io/badge/Sass-ff69b4?style=for-the-badge&logo=sass&logoColor=white" /> 
+
+### ⚙️ Backend
+
+<img src="https://img.shields.io/badge/Node.js-4169e1?style=for-the-badge&logo=node.js&logoColor=white" /> <img src="https://img.shields.io/badge/Express-4169e1?style=for-the-badge&logo=express&logoColor=white" /> <img src="https://img.shields.io/badge/MySQL-4169e1?style=for-the-badge&logo=mysql&logoColor=white" /> <img src="https://img.shields.io/badge/PostgreSQL-4169e1?style=for-the-badge&logo=postgresql&logoColor=white" /> <img src="https://img.shields.io/badge/Redis-4169e1?style=for-the-badge&logo=redis&logoColor=white" /> <img src="https://img.shields.io/badge/SQLite-4169e1?style=for-the-badge&logo=sqlite&logoColor=white" /> <img src="https://img.shields.io/badge/MongoDB-4169e1?style=for-the-badge&logo=mongodb&logoColor=white" /> 
+
+### 🚀 DevOps
+
+<img src="https://img.shields.io/badge/Docker-9370db?style=for-the-badge&logo=docker&logoColor=white" /> <img src="https://img.shields.io/badge/Kubernetes-9370db?style=for-the-badge&logo=kubernetes&logoColor=white" /> <img src="https://img.shields.io/badge/AWS-9370db?style=for-the-badge&logo=aws&logoColor=white" /> <img src="https://img.shields.io/badge/Jenkins-9370db?style=for-the-badge&logo=jenkins&logoColor=white" /> <img src="https://img.shields.io/badge/Ansible-9370db?style=for-the-badge&logo=ansible&logoColor=white" /> 
+
+### 💬 Languages
+
+<img src="https://img.shields.io/badge/JavaScript-FFA500?style=for-the-badge&logo=javascript&logoColor=white" /> <img src="https://img.shields.io/badge/TypeScript-FFA500?style=for-the-badge&logo=typescript&logoColor=white" /> <img src="https://img.shields.io/badge/Python-FFA500?style=for-the-badge&logo=python&logoColor=white" /> <img src="https://img.shields.io/badge/Java-FFA500?style=for-the-badge&logo=java&logoColor=white" /> <img src="https://img.shields.io/badge/C++-FFA500?style=for-the-badge&logo=c++&logoColor=white" /> <img src="https://img.shields.io/badge/C-FFA500?style=for-the-badge&logo=c&logoColor=white" /> 
+
+### 🧠 AI/ML
+
+<img src="https://img.shields.io/badge/Pandas-00CED1?style=for-the-badge&logo=pandas&logoColor=white" /> <img src="https://img.shields.io/badge/NumPy-00CED1?style=for-the-badge&logo=numpy&logoColor=white" /> <img src="https://img.shields.io/badge/Hugging Face-00CED1?style=for-the-badge&logo=hugging face&logoColor=white" /> 
+
+### 📱 Mobile
+
+<img src="https://img.shields.io/badge/Flutter-3CB371?style=for-the-badge&logo=flutter&logoColor=white" /> <img src="https://img.shields.io/badge/React Native-3CB371?style=for-the-badge&logo=react native&logoColor=white" /> 
+
+## 🌐 Socials
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/harshalgupta10) [![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white)](https://github.com/gupta-harshal) 
+
+</div>
+
+## 📫 How to reach me
+
+<div align="left">
+
+📧 **Email:** [harshal.2023ug3013@iiitranchi.ac.in](mailto:harshal.2023ug3013@iiitranchi.ac.in)
+
+</div>
+
+---
+⭐️ From [Harshal Gupta](https://github.com/gupta-harshal)
+
+<!-- Profile views counter -->
+<div align="center">
+  <img src="https://profile-counter.glitch.me/gupta-harshal/count.svg" alt="Visitor Count" />
+</div>
