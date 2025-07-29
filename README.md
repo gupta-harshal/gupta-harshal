@@ -98,8 +98,8 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/harshalgupta10)
 [![GitHub](https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/gupta-harshal)
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116.svg?style=for-the-badge&logo=leetCode&logoColor=black)](https://leetcode.com/gupta-harshal)
-[![Codeforces](https://img.shields.io/badge/Codeforces-1f8acb.svg?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/gupta-harshal)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116.svg?style=for-the-badge&logo=leetCode&logoColor=black)](https://leetcode.com/u/gupta-harshal)
+[![Codeforces](https://img.shields.io/badge/Codeforces-1f8acb.svg?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/gupta_harshal)
 [![Email](https://img.shields.io/badge/Email-D14836.svg?style=for-the-badge&logo=gmail&logoColor=white)](mailto:harshal.2023ug3013@iiitranchi.ac.in)
 <!-- You can add your website/portfolio button as below and update the link -->
 <!-- [![Portfolio](https://img.shields.io/badge/Portfolio-24292e?style=for-the-badge&logo=google-chrome&logoColor=white)](https://your-website.com) -->
@@ -108,13 +108,4 @@
 
 ---
 
-## 📫 How to reach me
-
-- 📧 &nbsp;**Email:** [harshal.2023ug3013@iiitranchi.ac.in](mailto:harshal.2023ug3013@iiitranchi.ac.in)
-- 💼 &nbsp;**LinkedIn:** [linkedin.com/in/harshalgupta10](https://www.linkedin.com/in/harshalgupta10)
-- 👨‍💻 &nbsp;**LeetCode:** [leetcode.com/u/gupta-harshal](https://leetcode.com/u/gupta_harshal)
-- ⚡ &nbsp;**Codeforces:** [https://codeforces.com/profile/gupta-harshal](https://codeforces.com/profile/gupta_harshal)
-- 🖥️ &nbsp;**GitHub:** [github.com/gupta-harshal](https://github.com/gupta-harshal)
-
----
 
