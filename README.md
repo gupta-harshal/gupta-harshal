@@ -97,6 +97,7 @@
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/harshalgupta10)
+[![X (X)](https://img.shields.io/badge/X-1DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/gupta_harshall?t=sh9Un7knVQPTiD22OjrP3A&s=08)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/gupta_harshall)
 [![GitHub](https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/gupta-harshal)
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116.svg?style=for-the-badge&logo=leetCode&logoColor=black)](https://leetcode.com/u/gupta_harshal)
